@@ -65,4 +65,4 @@ Sistema integral y operativo de **Punto de Venta (POS)** y **Menú Digital** par
 ### 8. Menú Digital Barbachu (Cliente)
 - Vista elegante con diseño oscuro y dorado.
 - Navegación rápida por chips de especialidades, platillos, bebidas y cervezas.
-- Modal de detalle y botón directo para pedir por WhatsApp (+52 33 1445 6850).
+- Modal de detalle y botón directo para pedir por WhatsApp.
