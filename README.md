@@ -1,6 +1,6 @@
 # Barbachu — Restaurante Bar & POS Operativo
 
-Sistema integral y operativo de **Punto de Venta (POS)** y **Menú Digital** para **Barbachu Restaurante Bar** , desarrollado en React + TypeScript con arquitectura local-first para operación en tiempo real.
+Sistema integral y operativo de **Punto de Venta (POS)** y **Menú Digital** para **Barbachu Restaurante Bar**  desarrollado en React + TypeScript con arquitectura local-first para operación en tiempo real.
 
 ---
 
@@ -65,4 +65,4 @@ Sistema integral y operativo de **Punto de Venta (POS)** y **Menú Digital** par
 ### 8. Menú Digital Barbachu (Cliente)
 - Vista elegante con diseño oscuro y dorado.
 - Navegación rápida por chips de especialidades, platillos, bebidas y cervezas.
-- Modal de detalle y botón directo para pedir por WhatsApp 
+- Modal de detalle y botón directo para pedir por WhatsApp .
